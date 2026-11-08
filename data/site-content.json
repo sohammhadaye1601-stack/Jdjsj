@@ -1,0 +1,453 @@
+{
+  "businessInfo": {
+    "name": "HR PRO FITNESS",
+    "category": "Gym / Physical Fitness Center",
+    "tagline": "Your Fitness Journey Starts With Us.",
+    "managedBy": "@redrapidrush_group",
+    "instagramHandle": "@hrprofitness",
+    "instagramUrl": "https://instagram.com/hrprofitness",
+    "phoneNumbers": [
+      "98868 22368",
+      "7676965555"
+    ],
+    "email": "hrprofitness@gmail.com",
+    "address": "HR PRO FITNESS, 2nd & 3rd Floor, Commercial Plaza, Near Metro Station, Bengaluru, Karnataka 560038",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124414.28822091494!2d77.51268616110998!3d12.975416049282302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "googleMapsDirectionsUrl": "https://maps.google.com/?q=HR+PRO+FITNESS+Gym+Bengaluru",
+    "openingHours": "Mon - Sat: 5:30 AM - 10:30 PM | Sun: 6:00 AM - 2:00 PM"
+  },
+  "hero": {
+    "mainHeading": "BUILD YOUR STRONGEST VERSION.",
+    "subHeading": "Train harder. Get stronger. Become better. Your fitness journey starts at HR PRO FITNESS.",
+    "ctaPrimaryText": "START YOUR FITNESS JOURNEY",
+    "ctaSecondaryText": "EXPLORE OUR GYM",
+    "backgroundImage": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1920&auto=format&fit=crop",
+    "stats": [
+      {
+        "label": "Active Members",
+        "value": "750+"
+      },
+      {
+        "label": "Certified Trainers",
+        "value": "12+"
+      },
+      {
+        "label": "Floor Space",
+        "value": "7,500 Sq Ft"
+      },
+      {
+        "label": "Success Transformations",
+        "value": "1,500+"
+      }
+    ]
+  },
+  "about": {
+    "heading": "MORE THAN JUST A GYM.",
+    "subheading": "UNLEASH YOUR TRUE POTENTIAL WITH WORLD-CLASS COACHING & EQUIPMENT",
+    "intro": "HR PRO FITNESS is a premier fitness center built for individuals who refuse to settle. Whether you are lifting a barbell for the very first time or chasing a new personal record, our elite training atmosphere is engineered to push your limits and deliver guaranteed physical transformations.",
+    "description": "We blend cutting-edge biomechanically optimized machinery, certified sports kinesiologists, individualized programming, and an unmatched brotherhood and sisterhood of fitness enthusiasts. Here, there are no shortcuts—just grit, discipline, and measurable milestones.",
+    "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=1200&auto=format&fit=crop",
+    "highlights": [
+      {
+        "id": "h1",
+        "title": "Professional Training Environment",
+        "description": "Spacious, air-conditioned acoustic floors equipped with Olympic platforms, competition-grade barbells, and ergonomic biomechanical strength gear.",
+        "icon": "Flame"
+      },
+      {
+        "id": "h2",
+        "title": "Certified Personal Trainers",
+        "description": "Gold-standard certified coaches who conduct postural assessments, customize progressive overload schemes, and ensure 100% injury-free execution.",
+        "icon": "Award"
+      },
+      {
+        "id": "h3",
+        "title": "Goal-Oriented Fitness",
+        "description": "Every rep counts. Regular Body Composition Analysis (BCA), nutrition consultations, and structured weekly check-ins to hold you accountable.",
+        "icon": "Target"
+      },
+      {
+        "id": "h4",
+        "title": "Supportive Fitness Community",
+        "description": "Surround yourself with disciplined go-getters. An electrifying, zero-ego culture managed by @redrapidrush_group where everyone cheers for your win.",
+        "icon": "Users"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Years Of Excellence",
+        "value": "6+"
+      },
+      {
+        "label": "Member Retention Rate",
+        "value": "94%"
+      },
+      {
+        "label": "Average Fat Loss / Member",
+        "value": "8.4 kg"
+      },
+      {
+        "label": "Star Google Rating",
+        "value": "4.9 ★"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "WHY CHOOSE HR PRO FITNESS?",
+    "subheading": "DESIGNED FOR PEAK PERFORMANCE, LONGEVITY, AND UNSTOPPABLE RESULTS",
+    "features": [
+      {
+        "id": "w1",
+        "title": "Certified Personal Trainers",
+        "description": "Expert trainers dedicated to mentoring you with scientifically backed form, lifting mechanics, and custom daily regimens.",
+        "icon": "BadgeCheck"
+      },
+      {
+        "id": "w2",
+        "title": "Supportive Training Environment",
+        "description": "A high-energy, motivating space with heavy-duty surround sound, clean locker facilities, and a focused workout vibe.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "w3",
+        "title": "Goal-Oriented Fitness",
+        "description": "Clear roadmaps tailored for weight management, athletic conditioning, hypertrophy, or lifestyle mobility.",
+        "icon": "TrendingUp"
+      },
+      {
+        "id": "w4",
+        "title": "Professional Gym Equipment",
+        "description": "Multi-station cable towers, Olympic power cages, calibrated plates, dumbbells up to 50kg, and commercial cardio stations.",
+        "icon": "Dumbbell"
+      },
+      {
+        "id": "w5",
+        "title": "Beginner-Friendly Guidance",
+        "description": "Step-by-step onboarding for newcomers, machine orientation, mobility primers, and zero intimidation.",
+        "icon": "Compass"
+      },
+      {
+        "id": "w6",
+        "title": "Nutrition & Lifestyle Mentorship",
+        "description": "Macro calculation, clean eating guides, and recovery protocols curated for sustainable life habits.",
+        "icon": "HeartPulse"
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "p1",
+      "title": "Strength Training",
+      "subtitle": "Build Raw Power & Joint Resilience",
+      "description": "Master compound lifts—squats, deadlifts, bench presses, and overhead drives. Emphasizing neuromuscular efficiency and dense skeletal muscle.",
+      "benefits": [
+        "Compound Barbell Mastery",
+        "Core & Spinal Stability",
+        "Progressive Periodization",
+        "Injury Prevention"
+      ],
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=800&auto=format&fit=crop",
+      "badge": "Most Popular"
+    },
+    {
+      "id": "p2",
+      "title": "Weight Loss & Fat Burn",
+      "subtitle": "High-Octane Caloric Incineration",
+      "description": "High-intensity functional intervals (HIIT), metabolic conditioning (MetCon), and steady-state cardio designed to strip stubborn body fat.",
+      "benefits": [
+        "Accelerated Metabolism (EPOC)",
+        "Cardiovascular Endurance",
+        "Custom Calorie Targets",
+        "Weekly BCA Weigh-ins"
+      ],
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=800&auto=format&fit=crop",
+      "badge": "High Burn"
+    },
+    {
+      "id": "p3",
+      "title": "Muscle Building & Hypertrophy",
+      "subtitle": "Aesthetic Symmetry & Muscular Fullness",
+      "description": "Science-backed hypertrophy routines targeting time-under-tension, muscular pump, mind-muscle connection, and fiber recruitment.",
+      "benefits": [
+        "Targeted Split Routines",
+        "Volume & Load Balancing",
+        "Optimal Rest Intervals",
+        "Bodybuilding Prep Support"
+      ],
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=800&auto=format&fit=crop",
+      "badge": "Transformation"
+    },
+    {
+      "id": "p4",
+      "title": "Certified Personal Training",
+      "subtitle": "1-on-1 Dedicated Elite Coaching",
+      "description": "Exclusive 1-on-1 private coaching. Every set, rep, drop-set, and diet meal is analyzed and adjusted daily for accelerated results.",
+      "benefits": [
+        "Dedicated 1-on-1 Coach",
+        "Customized Diet Blueprint",
+        "Real-time Form Correction",
+        "Flexible Time Slots"
+      ],
+      "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=800&auto=format&fit=crop",
+      "badge": "VIP Coaching"
+    },
+    {
+      "id": "p5",
+      "title": "Functional Fitness & Conditioning",
+      "subtitle": "Athletic Agility, Stamina & Mobility",
+      "description": "Kettlebells, battle ropes, plyometrics, sled pushes, and core stabilization routines that translate into real-life athletic vitality.",
+      "benefits": [
+        "Multi-Planar Agility",
+        "Explosive Power & Speed",
+        "Postural Alignment",
+        "Aerobic & Anaerobic Health"
+      ],
+      "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?q=80&w=800&auto=format&fit=crop",
+      "badge": "All Levels"
+    },
+    {
+      "id": "p6",
+      "title": "Beginner Fitness Programs",
+      "subtitle": "Gentle, Safe & Guided Start",
+      "description": "Never stepped into a gym? This program welcomes you with warm hands. Learn equipment safety, breathing mechanics, and form confidence.",
+      "benefits": [
+        "Zero-Intimidation Guarantee",
+        "Equipment Safety Walkthrough",
+        "Light Mobility Foundations",
+        "Habit-Forming Routine"
+      ],
+      "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=800&auto=format&fit=crop",
+      "badge": "Starter Friendly"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Olympic Heavy Barbells & Platform",
+      "category": "Weight Training",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Competition grade barbells, rubber bumper plates, and chalk station",
+      "order": 1
+    },
+    {
+      "id": "g2",
+      "title": "Main Workout Arena & Cardio Zone",
+      "category": "Interiors",
+      "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Spacious 7,500 sq ft climate-controlled training floor",
+      "order": 2
+    },
+    {
+      "id": "g3",
+      "title": "High-Intensity Battle Ropes Session",
+      "category": "Workout",
+      "imageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Functional conditioning and explosive cardiovascular endurance",
+      "order": 3
+    },
+    {
+      "id": "g4",
+      "title": "1-on-1 Personal Coaching Session",
+      "category": "Personal Training",
+      "imageUrl": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Certified trainers guiding flawless posture and biomechanics",
+      "order": 4
+    },
+    {
+      "id": "g5",
+      "title": "Heavy Dumbbell Station up to 50KG",
+      "category": "Equipment",
+      "imageUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Solid cast iron and polyurethane dumbbells with adjustable incline benches",
+      "order": 5
+    },
+    {
+      "id": "g6",
+      "title": "Member 16-Week Muscle Transformation",
+      "category": "Transformations",
+      "imageUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Remarkable body recomposition achieved with structured coaching",
+      "order": 6
+    },
+    {
+      "id": "g7",
+      "title": "Cable Multi-Station & Lat Pulls",
+      "category": "Equipment",
+      "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Smooth pulley systems designed for precision muscle isolation",
+      "order": 7
+    },
+    {
+      "id": "g8",
+      "title": "Powerlifting Squat Rack in Action",
+      "category": "Weight Training",
+      "imageUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=1000&auto=format&fit=crop",
+      "caption": "Safety-rated heavy gauge power racks with spotter arms",
+      "order": 8
+    }
+  ],
+  "trainers": [
+    {
+      "id": "t1",
+      "name": "Vikram \"Rathore\" Sharma",
+      "specialization": "Head Coach & Powerlifting Specialist",
+      "experience": "9+ Years Experience",
+      "bio": "Former national level strength athlete and certified exercise kinesiologist. Specializes in barbell mechanics, athletic power development, and safe max-effort lifts.",
+      "image": "https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&w=800&auto=format&fit=crop",
+      "certifications": [
+        "ISSA Master Trainer",
+        "CSCS Strength Coach",
+        "CPR/AED Certified"
+      ],
+      "instagram": "@vikram_coach"
+    },
+    {
+      "id": "t2",
+      "name": "Ananya Deshmukh",
+      "specialization": "Female Transformation & Functional Movement",
+      "experience": "7+ Years Experience",
+      "bio": "Pioneered women’s strength and body toning at HR PRO FITNESS. Master of prenatal/postnatal fitness, kettlebells, and non-restrictive fat loss strategies.",
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=800&auto=format&fit=crop",
+      "certifications": [
+        "ACE Certified Personal Trainer",
+        "Kettlebell Athletics Level 2",
+        "Sports Nutritionist"
+      ],
+      "instagram": "@ananya_fitnessfit"
+    },
+    {
+      "id": "t3",
+      "name": "Karan Mehra",
+      "specialization": "Hypertrophy & Body Recomposition Coach",
+      "experience": "6+ Years Experience",
+      "bio": "Expert in bodybuilding posing, muscle density, progressive volume splits, and sustainable carb-cycling for rapid aesthetic physiques.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=800&auto=format&fit=crop",
+      "certifications": [
+        "K11 Academy of Fitness Sciences",
+        "Precision Nutrition L1"
+      ],
+      "instagram": "@karan_gains"
+    },
+    {
+      "id": "t4",
+      "name": "Rohit Verma",
+      "specialization": "Conditioning, HIIT & Mobility Coach",
+      "experience": "5+ Years Experience",
+      "bio": "High-energy motivator who transforms beginners into athletic powerhouses. Focuses on joint health, metabolic burn, and agility.",
+      "image": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?q=80&w=800&auto=format&fit=crop",
+      "certifications": [
+        "CrossFit L1 Trainer",
+        "TRX Suspension Master"
+      ],
+      "instagram": "@rohit_fitathlete"
+    }
+  ],
+  "membershipPlans": [
+    {
+      "id": "m1",
+      "name": "1 Month Kickstart",
+      "duration": "1 Month Access",
+      "price": "₹2,499",
+      "originalPrice": "₹3,000",
+      "popular": false,
+      "badge": "Trial / Flexibility",
+      "features": [
+        "Full access to all Gym & Cardio zones",
+        "Locker & shower facilities",
+        "Free 1-on-1 Fitness Assessment",
+        "General trainer floor guidance",
+        "Standard opening hours access"
+      ],
+      "offerText": "Ideal for trying out the facility"
+    },
+    {
+      "id": "m2",
+      "name": "3 Months Transformation",
+      "duration": "3 Months Access",
+      "price": "₹5,999",
+      "originalPrice": "₹7,500",
+      "popular": true,
+      "badge": "Best Value",
+      "features": [
+        "Full unlimited access to gym floor",
+        "2 Complimentary Personal Training sessions",
+        "Bi-weekly Body Composition Analysis (BCA)",
+        "Personalized Workout Split Chart",
+        "Diet & Macronutrient Starter Guide",
+        "Free HR PRO Fitness Shaker Bottle"
+      ],
+      "offerText": "Most popular for serious 90-day transformations"
+    },
+    {
+      "id": "m3",
+      "name": "6 Months Pro Athlete",
+      "duration": "6 Months Access",
+      "price": "₹9,999",
+      "originalPrice": "₹14,000",
+      "popular": false,
+      "badge": "High Discipline",
+      "features": [
+        "All 3-Month tier privileges included",
+        "4 Free Personal Training trial sessions",
+        "Monthly posture & mobility screening",
+        "15% discount on partner fitness apparel & supplements",
+        "Priority locker booking access",
+        "1 Month membership freeze option"
+      ],
+      "offerText": "Save 30% compared to monthly rates"
+    },
+    {
+      "id": "m4",
+      "name": "12 Months Annual Beast",
+      "duration": "12 Months + 1 Month Free",
+      "price": "₹15,999",
+      "originalPrice": "₹24,000",
+      "popular": false,
+      "badge": "Ultimate Commitment",
+      "features": [
+        "365 Days + 30 Days Free Bonus Access",
+        "VIP Welcome Kit (Bag, Bottle, Towel)",
+        "Unlimited Body Composition Scans",
+        "Free nutritional consultation every quarter",
+        "6 Free Guest Passes for friends/family",
+        "2 Months free membership hold option"
+      ],
+      "offerText": "Limited time festive offer: Extra 30 days added free"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "rev1",
+      "name": "Rahul Hegde",
+      "rating": 5,
+      "program": "Weight Loss & Conditioning",
+      "text": "HR PRO FITNESS completely changed my life. I went from 96kg to 78kg in 6 months under Vikram’s guidance. The vibe here is completely different from regular commercial gyms—intense, welcoming, and pure energy!",
+      "results": "Lost 18 kg in 6 months",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop"
+    },
+    {
+      "id": "rev2",
+      "name": "Pooja Sundaram",
+      "rating": 5,
+      "program": "Strength & Personal Training",
+      "text": "As a beginner woman, I was initially intimidated by the weights section. Coach Ananya guided my technique patiently. Today I can deadlift 85kg with zero pain and feel stronger than ever!",
+      "results": "Deadlift increased from 20kg to 85kg",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=200&auto=format&fit=crop"
+    },
+    {
+      "id": "rev3",
+      "name": "Arjun Pillai",
+      "rating": 5,
+      "program": "Muscle Building & Hypertrophy",
+      "text": "The equipment quality here is exceptional. Barbells are knurled to perfection, dumbbells never miss a pair, and the sound system keeps you pumped through every set. Managed by @redrapidrush_group—top notch management!",
+      "results": "Gained 7 kg lean muscle",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&auto=format&fit=crop"
+    }
+  ],
+  "settings": {
+    "accentColor": "#E32636",
+    "primaryBg": "#090909",
+    "secondaryBg": "#171717",
+    "allowPublicEnquiries": true
+  }
+}

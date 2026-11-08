@@ -1,0 +1,36 @@
+[
+  {
+    "id": "enq-1794109276766-543",
+    "fullName": "Ankit Verma",
+    "phone": "9876543210",
+    "email": "ankit@verma.com",
+    "fitnessGoal": "Weight Loss & Fat Burn",
+    "preferredProgram": "Strength Training",
+    "message": "Looking for evening slots with personal training.",
+    "status": "new",
+    "createdAt": "2026-11-08T03:41:16.766Z"
+  },
+  {
+    "id": "enq-101",
+    "fullName": "Siddharth Rao",
+    "phone": "98868 22368",
+    "email": "siddharth@example.com",
+    "fitnessGoal": "Muscle Building & Hypertrophy",
+    "preferredProgram": "Strength Training",
+    "message": "Looking for evening 7 PM slots. Interested in 6-month package with personal training.",
+    "status": "new",
+    "createdAt": "2026-11-08T01:41:16.766Z"
+  },
+  {
+    "id": "enq-102",
+    "fullName": "Priyanka Nair",
+    "phone": "76769 65555",
+    "email": "priyanka.nair@example.com",
+    "fitnessGoal": "Weight Loss & Fat Burn",
+    "preferredProgram": "Weight Loss & Fat Burn",
+    "message": "Need morning coach for weight loss guidance and posture correction.",
+    "status": "contacted",
+    "createdAt": "2026-11-07T03:41:16.766Z",
+    "notes": "Called and shared details over WhatsApp. Visiting gym this Saturday for trial."
+  }
+]

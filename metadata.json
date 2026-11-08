@@ -1,0 +1,6 @@
+{
+  "name": "HR PRO FITNESS - Premium Gym & Physical Fitness Center",
+  "description": "Build your strongest version at HR PRO FITNESS. Certified personal training, strength and conditioning, muscle building, weight loss, and modern gym facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
